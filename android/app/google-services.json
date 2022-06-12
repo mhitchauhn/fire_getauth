@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1086429205347",
+    "project_id": "test-fire-33193",
+    "storage_bucket": "test-fire-33193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086429205347:android:bb47108df7eb8f47fcf956",
+        "android_client_info": {
+          "package_name": "com.example.flutter_step4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086429205347-e5lhik93u9jkkcs2gae8d422eu4bitmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrICbdpq8FzHY40x0n2dJ7FldV0HATFs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086429205347-e5lhik93u9jkkcs2gae8d422eu4bitmf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1086429205347-aq314gbtsuv82k71ugkg6kh3q7547laj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterStep4"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
