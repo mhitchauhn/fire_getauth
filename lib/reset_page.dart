@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter_step4/login_page.dart';
-import 'package:get/get.dart';
 
 class ResetPage extends StatefulWidget {
   const ResetPage({Key? key}) : super(key: key);
@@ -214,8 +213,6 @@ class _ResetPageState extends State<ResetPage> {
                   fontWeight: FontWeight.bold),
 
               ///here is our redirect code
-              recognizer: TapGestureRecognizer()
-                ..onTap = () => Get.to(() => LoginPage()),
             ),
           ),
         ]),
